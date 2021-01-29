@@ -1,1 +1,3 @@
-# wi21-cse110-lab4
+Name: Malcolm McSwain
+
+Email: mrmcswai@ucsd.edu
